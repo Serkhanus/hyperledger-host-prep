@@ -72,6 +72,6 @@ cd fabric-samples/fabcar
 
 #Install and run test app
 npm install
-
+./startFabric.sh
 node query.js
 
