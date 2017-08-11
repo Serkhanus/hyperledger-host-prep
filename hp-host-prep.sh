@@ -42,7 +42,7 @@ sudo docker run hello-world
 
 ## GO install
 
-sudo apt-get install -u golang
+sudo apt-get install -y golang
 export GOPATH=$HOME/go
 export PATH=$PATH:$GOPATH/bin
 
